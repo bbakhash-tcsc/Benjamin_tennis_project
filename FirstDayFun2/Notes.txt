@@ -1,0 +1,53 @@
+{\rtf1\ansi\ansicpg1252\cocoartf949
+{\fonttbl}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+}
+
+/*
+  if ball.contains(touch.location(in: self)){
+      
+      print ("Ball touched...at the location of \(touchLocation)")
+
+  
+  
+      let w = ball.size.width * 1.3
+      let h = ball.size.height * 1.3
+      
+      ball.size = CGSize(width: w, height: h)
+ 
+  
+  } else {
+      
+      print ("Ball was NOT touched...at the location of \(touchLocation)")
+          
+            
+            
+      let w = ball.size.width * 0.7
+      let h = ball.size.height * 0.7
+                
+                ball.size = CGSize(width: w, height: h)
+  
+  }
+
+  */
+  
+  
+  
+  
+  
+  
+          /* planning a function
+        What should it do? ->
+     
+        Check for a collision between the computer racquet and the ball....
+     
+        logical Truth -> booleans-> true/false
+                                 intergers -> 1/0
+        We decided on a return type of boolean
+     
+        true means hit the ball, false means ai did not hit the ball
+    
+        name computerHit
+        */
+  
